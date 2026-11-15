@@ -1,0 +1,3 @@
+host=localhost localhost
+ERROR level ERROR
+url=http://localhost:8080

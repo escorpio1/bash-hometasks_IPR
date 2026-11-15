@@ -1,0 +1,10 @@
+2026-11-15 10:00:01 INFO Application started
+2026-11-15 10:00:02 DEBUG Loading configuration
+2026-11-15 10:00:03 ERROR Database connection failed
+2026-11-15 10:00:04 WARN Retrying connection
+2026-11-15 10:00:05 error retry limit reached
+2026-11-15 10:00:06 INFO error_code=500 handled
+2026-11-15 10:00:07 DEBUG Cache warmed
+2026-11-15 10:00:08 ERROR Timeout while reading socket
+2026-11-15 10:00:09 INFO Found 3 errors in queue
+2026-11-15 10:00:10 Error User not found

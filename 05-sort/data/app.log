@@ -1,0 +1,8 @@
+2026-11-15 10:00:01 ERROR DatabaseError connection failed
+2026-11-15 10:00:02 INFO Started
+2026-11-15 10:00:03 ERROR TimeoutError socket
+2026-11-15 10:00:04 ERROR DatabaseError deadlock
+2026-11-15 10:00:05 ERROR AuthError bad token
+2026-11-15 10:00:06 ERROR DatabaseError pool exhausted
+2026-11-15 10:00:07 ERROR TimeoutError api
+2026-11-15 10:00:08 WARN Slow query
